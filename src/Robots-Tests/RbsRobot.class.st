@@ -13,3 +13,10 @@ RbsRobot >> direction [
 
 	^ direction
 ]
+
+{ #category : 'initialization' }
+RbsRobot >> initialize [
+
+	super initialize.
+	direction := #east
+]
