@@ -4,8 +4,8 @@ Class {
 	#instVars : [
 		'direction'
 	],
-	#category : 'Robots-Tests',
-	#package : 'Robots-Tests'
+	#category : 'Robots',
+	#package : 'Robots'
 }
 
 { #category : 'accessing' }
